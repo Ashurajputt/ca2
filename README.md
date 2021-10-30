@@ -1,2 +1,1 @@
-# ca2
-home page
+# myclassHomepage.github.io
